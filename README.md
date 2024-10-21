@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akash kumar singh
-- 👀 I’m interested in Mern stack developer
+- 👀 I’m interested in Mern stack development
 - 🌱 I’m currently learning DSA 
 - 💞️ I’m looking to collaborate on Full stack Projects
 - 📫 How to reach me www.linkedin.com/in/akash-kumar-singh-536406255
