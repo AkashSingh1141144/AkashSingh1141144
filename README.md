@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Akash kumar singh
+-  👀 I’m interested in Front End development
 - 👀 I’m interested in Mern stack development
 - 🌱 I’m currently learning DSA 
 - 💞️ I’m looking to collaborate on Full stack Projects
