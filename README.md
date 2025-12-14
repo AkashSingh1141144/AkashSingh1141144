@@ -1,13 +1,57 @@
-- 👋 Hi, I’m Akash kumar singh
--  👀 I’m interested in Front End development
-- 👀 I’m interested in Mern stack development
-- 🌱 I’m currently learning DSA 
-- 💞️ I’m looking to collaborate on Full stack Projects
-- 📫 How to reach me www.linkedin.com/in/akash-kumar-singh-536406255
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🚀 Front-End & MERN Stack Developer | 💻 DSA Learner | 🤝 Open to Full-Stack Collaborations
 
-<!---
-AkashSingh1141144/AkashSingh1141144 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👨‍💻 About Me
+
+👀 Passionate about Front-End Development and MERN Stack
+
+🌱 Currently learning Data Structures & Algorithms (DSA)
+
+💞️ Looking to collaborate on Full-Stack / MERN Projects
+
+🎯 Goal: Build scalable, clean & user-friendly web apps
+
+🛠️ Tech Stack & Skills
+🌐 Frontend
+
+
+
+
+⚙️ Backend
+
+
+
+
+🗄️ Database
+
+
+
+
+🧠 Programming & Tools
+
+
+
+
+📊 GitHub Stats
+
+
+
+
+
+
+
+🌐 Connect With Me
+
+💼 LinkedIn: Akash Kumar Singh
+
+🌍 Portfolio: View My Work
+
+⚡ Fun Fact
+
+🧩 I enjoy solving DSA problems as much as building beautiful UIs! 😄
+
+🐍 Contribution Snake
+
+
+
+
+⭐ If you like my profile, consider giving a star to my repositories! ⭐
