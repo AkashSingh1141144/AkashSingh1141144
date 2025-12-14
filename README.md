@@ -1,4 +1,10 @@
-# 🚀 Front-End & MERN Stack Developer | 💻 DSA Learner | 🤝 Open to Full-Stack Collaborations
+<h1 align="center">
+  🚀 Hi, I'm Akash Kumar Singh
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=700&lines=Front-End+Developer;MERN+Stack+Developer;DSA+Learner;Open+to+Full-Stack+Collaborations" />
+</p>
 
 ---
 
@@ -13,29 +19,18 @@
 
 ## 🛠️ Tech Stack & Skills
 
-### 🌐 Frontend
-
-HTML • CSS • JavaScript • React • Next.js • Tailwind CSS
-
-### ⚙️ Backend
-
-Node.js • Express.js
-
-### 🗄️ Database
-
-MongoDB
-
-### 🧠 Programming & Tools
-
-TypeScript • Git • GitHub • VS Code
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,ts,git,github,vscode" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkashSingh1141144\&show_icons=true\&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkashSingh1141144\&layout=compact\&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AkashSingh1141144&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashSingh1141144&layout=compact&theme=radical" height="165" />
+</p>
 
 ---
 
@@ -54,9 +49,30 @@ TypeScript • Git • GitHub • VS Code
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://raw.githubusercontent.com/AkashSingh1141144/AkashSingh1141144/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AkashSingh1141144/AkashSingh1141144/output/github-contribution-grid-snake.svg" />
+  <br/>
+  <img src="https://raw.githubusercontent.com/AkashSingh1141144/AkashSingh1141144/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AkashSingh1141144&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 📈 DSA & Coding Profiles
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/AkashSingh1141144?theme=dark&font=Fira+Code" />
+</p>
 
 ---
 
 ⭐ **If you like my profile, consider giving a star to my repositories!** ⭐
+
 
