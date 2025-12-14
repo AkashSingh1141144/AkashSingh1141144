@@ -3,14 +3,14 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=700&lines=Front-End+Developer;MERN+Stack+Developer;DSA+Learner;Open+to+Full-Stack+Collaborations" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=700&lines=Front-End+Developer;Backend+Developer;MERN+Stack+Developer;DSA+Learner;Open+to+Full-Stack+Collaborations" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-* 👀 Passionate about **Front-End Development** and **MERN Stack**
+* 👀 Passionate about **Front-End & Backend Development** and **MERN Stack**
 * 🌱 Currently learning **Data Structures & Algorithms (DSA)**
 * 💞️ Looking to collaborate on **Full-Stack / MERN Projects**
 * 🎯 Goal: Build **scalable, clean & user-friendly web apps**
@@ -20,7 +20,7 @@
 ## 🛠️ Tech Stack & Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,ts,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,ts,git,github,vscode,docker,postman" />
 </p>
 
 ---
@@ -43,7 +43,7 @@
 
 ## ⚡ Fun Fact
 
-🧩 I enjoy solving DSA problems as much as building beautiful UIs! 😄
+🧩 I enjoy solving DSA problems as much as building **full-stack web applications**! 😄
 
 ---
 
