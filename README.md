@@ -37,7 +37,7 @@
 ## 🌐 Connect With Me
 
 * 💼 **LinkedIn:** [https://www.linkedin.com/in/akash-kumar-singh-536406255](https://www.linkedin.com/in/akash-kumar-singh-536406255)
-* 🌍 **Portfolio:** [https://a-ssu-dev-portfolio.vercel.app/projects](https://a-ssu-dev-portfolio.vercel.app/projects)
+* 🌍 **Portfolio:** [https://codex-frontend-portfolio.vercel.app](https://codex-frontend-portfolio.vercel.app)
 
 ---
 
