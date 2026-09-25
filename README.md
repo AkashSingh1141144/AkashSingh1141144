@@ -1,3 +1,12 @@
+## <h1 align="center">
+  👋 Hi, I'm Akash Kumar Singh
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React.js;Front-End+Engineer;DSA+with+Java;Exploring+Generative+AI;Building+Scalable+Full-Stack+Applications" />
+</p>
+
+
 ## 👨‍💻 About Me
 
 I'm a **Computer Science Engineering student** passionate about becoming a **Java Full Stack Developer** and building practical, scalable and user-friendly applications.
